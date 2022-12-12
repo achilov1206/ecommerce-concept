@@ -1,0 +1,32 @@
+class AppStrings {
+  static const String noRouteFound = 'No Route Found';
+  static const String selectLocation = 'Select Location';
+  static const String myCart = 'My Cart';
+  static const String total = 'Total';
+  static const String delivery = 'Delivery';
+  static const String checkout = 'Checkout';
+  static const String selectCategory = 'Select Category';
+  static const String viewAll = 'View all';
+  static const String hotSales = 'Hot sales';
+  static const String seeMore = 'see more';
+  static const String bestSeller = 'Best Seller';
+  static const String productDetails = 'Product Details';
+  static const String addToCart = 'Add to Cart';
+  static const String explorer = 'Explorer';
+  static const String buyNow = 'Buy now!';
+  static const String shop = 'Shop';
+  static const String details = 'Details';
+  static const String feautures = 'Feautures';
+  static const String selectColorAndCapacity = 'Select Color and Capacity';
+  static const String pleaseSelect = 'Please select';
+  static const String filterOptions = 'Filter Options';
+  static const String done = 'Done';
+  static const String brand = 'Brand';
+  static const String price = 'Price';
+  static const String size = 'Size';
+  static const String newString = 'New';
+  static const String search = 'Search';
+  static const String ecommerceConcept = 'Ecommerce \nConcept';
+  static const String smthWentWrong = 'Uups!\nLooks something went wrong!';
+  static const String noInternet = 'Uups!\nNo Internet Connection!';
+}
